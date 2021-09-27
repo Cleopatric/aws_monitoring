@@ -1,0 +1,4 @@
+botocore==1.21.48
+boto3==1.18.48
+pytest==5.4.3
+PyYAML==5.4.1

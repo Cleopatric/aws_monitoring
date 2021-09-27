@@ -1,0 +1,21 @@
+instance_id: 'i-0042223a1e37659f2'
+state: 'running'
+instance_type: 'm5.large'
+network_interfaces_number: 1
+network_interface_ip: '100.96.4.117'
+network_interface_subnet: 'subnet-037e80603e27a9c4e'
+device_size: 40
+root_block_device_type: 'ebs'
+instance_ssh_key_name: 'jenkins_access'
+instance_tags_count: 5
+instance_tag_name: 'mt_tst_kafka_001'
+availability_zone: 'eu-central-1a'
+interfaces_id: 'eni-047dd1034072a4778'
+tags:
+  Tenant: 'mt'
+  Terminator_omit: 'True'
+  Ver: '1.0.0'
+  Name: 'mt_tst_kafka_001'
+  Service: 'Kafka'
+  Env: 'lab-ecx'
+
